@@ -15,4 +15,4 @@ production_ev_battery_data.csv: Dataset used in Step 1 (Tuned & Added Noise Ver.
 
 step2_physics_data.csv: Dataset used in Step 2 (Synthetic data). The original untuned dataset is from  [BatteryArchive](https://www.batteryarchive.org)
 
-Cell1_SOH_analysis.csv: Dataset used in Step 3, extracted from the Oxford Battery Dataset [OXford](https://doi.org/10.5287/bodleian:KO2kdmYGg)
+Cell1_SOH_analysis.csv: Dataset used in Step 3, extracted from the Oxford Battery Dataset [Oxford](https://doi.org/10.5287/bodleian:KO2kdmYGg)
